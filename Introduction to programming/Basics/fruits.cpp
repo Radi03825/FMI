@@ -18,4 +18,6 @@ int main() {
     
 
     cout << "Traicho, don't forget to buy " << apples << ", " << pears << " pears and " << bananas << " bananas!";
+
+    return 0;
 }

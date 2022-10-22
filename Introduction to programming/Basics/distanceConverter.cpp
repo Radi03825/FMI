@@ -28,4 +28,6 @@ int main() {
     double kilometers = miles * KILOMETER_CONVERTER;
 
     cout << "The value on km/h: " << kilometers;
+
+    return 0;
 }
