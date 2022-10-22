@@ -13,4 +13,6 @@ int main() {
     int product = a * b;
 
     cout << "Sum: " << sum << " Difference: " << difference << " Product: " << product;
+
+    return 0;
 }

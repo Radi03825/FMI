@@ -21,4 +21,6 @@ int main() {
 
     cout << "Surface area = " << area << endl;
     cout << "Volume = " << volume;
+
+    return 0;
 }
