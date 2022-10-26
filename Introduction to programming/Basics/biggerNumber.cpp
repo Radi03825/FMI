@@ -10,7 +10,7 @@ int main() {
     cin >> firstNumber >> secondNumber;
 
     // With if statement
-    if(firstNumber >= secondNumber) {
+    if (firstNumber >= secondNumber) {
       cout << firstNumber;
     } else {
       cout << secondNumber;
