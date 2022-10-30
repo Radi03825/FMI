@@ -11,7 +11,7 @@ int main() {
 
     cout << "Is divisible by 2: ";
 
-    if(number % 2 == 0) {
+    if (number % 2 == 0) {
       cout << "Yes";
     } else {
       cout << "No";
