@@ -5,6 +5,7 @@ main = do
     print (removeDigit 600 0)
 
 
+
 removeDigit :: Integer -> Integer -> Integer
 removeDigit num digit
     | num == 0 = 0

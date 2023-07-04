@@ -7,6 +7,8 @@ main = do
     print (isOddWithIf 7)
     print (isOddWithGuards 7)
 
+
+    
 isEven :: Integer -> Bool
 isEven n = n `mod` 2 == 0
 
