@@ -1,0 +1,9 @@
+package bg.sofia.uni.fmi.mjt.glovo;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+    
+}
